@@ -1,0 +1,1 @@
+gcc main.c RSA.c symm.c -o bin_res
